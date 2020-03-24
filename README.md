@@ -55,6 +55,6 @@ As you add / modify the source code (`src/main/java/...`) it's very useful to ad
 * > `angular version - 8.1.2` https://docs.docker.com/engine/reference/commandline/docker/
 * cli version -2.2.0
 * npm version - 6.1.0
-* .[node-10.16.0].
+* .[node-10.16.0].(https://openjdk.java.net/projects/jdk/11/)
  
 
