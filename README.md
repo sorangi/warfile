@@ -52,7 +52,7 @@ As you add / modify the source code (`src/main/java/...`) it's very useful to ad
 ## Dependinces
  
   Frontend-v2
-* angular version - 8.1.2
+* `angular version - 8.1.2`
 * cli version -2.2.0
 * npm version - 6.1.0
 * node - 10.16.0
