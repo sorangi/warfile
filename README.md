@@ -49,7 +49,7 @@ As you add / modify the source code (`src/main/java/...`) it's very useful to ad
 * [Truth](http://google.github.io/truth/)
 
 
-## Dependinces
+### Dependinces
  
   Frontend-v2
 * > `angular version - 8.1.2` https://docs.docker.com/engine/reference/commandline/docker/
