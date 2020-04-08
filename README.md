@@ -5,6 +5,13 @@ This was created using [xyz gae generator](https://github.com/luanpotter/xyz-gae
 Welcome to your newly created project! Edit this readme to add useful information.
 
 The following might help you finish your setup:
+### Major dependencies and version
+* [Java-11](https://openjdk.java.net/projects/jdk/11/)
+* [MySQL-8](https://dev.mysql.com/downloads/mysql/)
+* Spring boot-2.2.0
+* Gradle-6.2
+* Hibernate
+* Docker
 
 ## Docs
 
